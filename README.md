@@ -1,11 +1,13 @@
-Olá, eu sou o Henrique Mota!
-Sobre Mim
+# Olá, eu sou o Henrique Mota! 
+
+##  Sobre Mim
 Estudante de tecnologia focado em desenvolver soluções eficientes e construir um perfil profissional sólido. Este repositório faz parte da minha trajetória acadêmica e pessoal, servindo como um hub central para meus projetos e evolução técnica.
 
-Atualmente cursando ensino superior (Engenharia de Sofwtare).
-Tecnologias e Interesses
+-  Atualmente cursando ensino superior (Engenharia de Sofwtare).
+
+##  Tecnologias e Interesses
 Tenho grande interesse e venho aprimorando minhas competências nas seguintes tecnologias:
 
-Linguagens de Programação: Python, C#, Java
-Desenvolvimento Web (Front-end): HTML5 e CSS3.
-Banco de Dados: SQL.
+* **Linguagens de Programação:** Python, C#, Java
+* **Desenvolvimento Web (Front-end):** HTML5 e CSS3.
+* **Banco de Dados:** SQL.
